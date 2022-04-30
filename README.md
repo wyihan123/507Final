@@ -14,6 +14,3 @@ import matplotlib.pyplot as plt
 ## Data Structure
 * I organized data into a tree structure, and stored it in a JSON file named restaurant_tree.json. 
 * [Tree Screenshot](https://drive.google.com/file/d/1f0dgDH8j5PbbRuj3tHafWRlQg2mU63ma/view?usp=sharing)
-
-## Demo Link
-* 
